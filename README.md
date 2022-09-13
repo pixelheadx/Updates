@@ -1,1 +1,5 @@
-New design of Polakya, over 80+ brand new features.
+Fixed GodMode
+
+Added: AntiLag when someone cashes <
+
+Added: CallAll
