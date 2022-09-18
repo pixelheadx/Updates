@@ -1,5 +1,3 @@
-Fixed GodMode
+Click to Target, Click to Stomp, SprayAura.
 
-Added: AntiLag when someone cashes <
 
-Added: CallAll
